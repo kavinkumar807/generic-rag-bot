@@ -1,0 +1,8 @@
+hf_cache
+__pycache__
+venv
+data
+.chainlit
+chainlit.md
+.files
+.env

@@ -1,0 +1,14 @@
+langchain_core
+langchain_openai
+python-dotenv
+fastapi
+pydantic
+uvicorn
+streamlit
+langchain_community
+python-multipart
+langchain_huggingface
+pypdf
+bs4
+langchain-mongodb
+pymongo
